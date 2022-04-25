@@ -1,0 +1,11 @@
+Model Information:
+* title:	Carboxylic Acids
+* source:	https://sketchfab.com/3d-models/carboxylic-acids-8f9ddd0061e14b05bf979886063fef97
+* author:	liai.bnet (https://sketchfab.com/liai.bnet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Carboxylic Acids" (https://sketchfab.com/3d-models/carboxylic-acids-8f9ddd0061e14b05bf979886063fef97) by liai.bnet (https://sketchfab.com/liai.bnet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
